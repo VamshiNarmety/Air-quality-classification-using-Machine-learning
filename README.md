@@ -19,6 +19,4 @@ After evaluating the different models, I selected the **Random Forest Classifier
 The accuracy obtained is 100%.
 
 
-# Acknowledgments
-- This project is part of the **DAI101** course at **IIT Roorkee**.
 
