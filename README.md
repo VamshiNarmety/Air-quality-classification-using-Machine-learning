@@ -8,17 +8,17 @@ You can access the dataset here: [Air Quality Data in India (2015-2020)](https:/
 ## Rendering Issue
 Sometimes, the Jupyter notebook might not render properly on GitHub. If you run into this issue, you can download the notebook or view it using [nbviewer](https://nbviewer.jupyter.org/).
 
-### Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 - I plotted time-series for both vehicular and industrial pollution across cities, both before and after COVID-19.
 - The analysis showed that cities like Delhi and Gurugram had the highest pollution levels, while Shillong had the least.
 - I also analyzed the AQI trends in both metropolitan and non-metropolitan cities.
 
 
-### Model Selection
+# Model Selection
 After evaluating the different models, I selected the **Random Forest Classifier** as the final model due to its better generalization and reduced overfitting compared to the SVM and Decision Tree models.
 The accuracy obtained is 100%.
 
 
-## Acknowledgments
+# Acknowledgments
 - This project is part of the **DAI101** course at **IIT Roorkee**.
 
