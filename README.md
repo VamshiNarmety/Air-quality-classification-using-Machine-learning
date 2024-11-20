@@ -7,14 +7,6 @@ The dataset used in this project is from Kaggle and includes air quality data fr
 You can access the dataset here: [Air Quality Data in India (2015-2020)](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
 ## Rendering Issue
 Sometimes, the Jupyter notebook might not render properly on GitHub. If you run into this issue, you can download the notebook or view it using [nbviewer](https://nbviewer.jupyter.org/).
-## AQI Categories
-We’ve used the following AQI categories for this project:
-- **Good**: <=50.0
-- **Satisfactory**: 51.0 - 100.0
-- **Moderate**: 101.0 - 200.0
-- **Poor**: 201.0 - 300.0
-- **Very Poor**: 301.0 - 400.0
-- **Severe**: 401.0>
 
 ### Exploratory Data Analysis (EDA)
 - I plotted time-series for both vehicular and industrial pollution across cities, both before and after COVID-19.
