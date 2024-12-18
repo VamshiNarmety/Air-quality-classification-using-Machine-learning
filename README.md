@@ -32,17 +32,13 @@ This project focuses on predicting air quality based on pollutant concentrations
   - I evaluate various machine learning models.
   - After testing several algorithms, the **Random Forest Classifier** is selected for its high accuracy and generalization capability, showing 100% accuracy in predicting the AQI categories.
 
-## Dataset
+# Dataset
 
 The dataset used in this project is from Kaggle and contains air quality data from multiple cities across India between 2015 and 2020. It includes various pollutants' concentrations such as particulate matter (PM2.5, PM10), nitrogen dioxide (NO2), sulfur dioxide (SO2), and ozone (O3), among others.
 
 - You can access the dataset here: [Air Quality Data in India (2015-2020)](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
 
-## Rendering Issues
-
-Sometimes, Jupyter notebooks might not render properly on GitHub. If you face such issues, you can download the notebook or view it using [nbviewer](https://nbviewer.jupyter.org/).
-
-## Key Findings in EDA
+# Key Findings in EDA
 
 - **Pollution Analysis**:
   - Time-series analysis for vehicular and industrial pollution across cities, comparing trends before and after the COVID-19 lockdown.
@@ -51,7 +47,11 @@ Sometimes, Jupyter notebooks might not render properly on GitHub. If you face su
 - **AQI Trends**:
   - The analysis also explored AQI trends in both **metropolitan** and **non-metropolitan** cities, revealing insights about urban and rural air quality.
 
-## Model Selection and Performance
+# Model Selection and Performance
 
 - **Model**: After evaluating various models, I selected the **Random Forest Classifier** for its ability to generalize well and reduce overfitting, compared to SVM and Decision Tree models.
 - **Performance**: The Random Forest Classifier achieved **100% accuracy** in predicting AQI categories, making it the final model for this project.
+
+# Rendering Issues
+
+Sometimes, Jupyter notebooks might not render properly on GitHub. If you face such issues, you can download the notebook or view it using [nbviewer](https://nbviewer.jupyter.org/).
