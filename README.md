@@ -10,7 +10,7 @@ This project focuses on predicting air quality based on pollutant concentrations
    git clone https://github.com/VamshiNarmety/Air-quality-classification-using-Machine-learning-DAI-101-.git
    cd Air-quality-classification-using-Machine-learning-DAI-101-
 2. `pip3 install -r requirements.txt`
-3. jupyter notebook
+3. launch jupyter notebook
 4. Run the notebooks in order:
    - First, proceed to the EDA notebook (part-1_EDA).
    - Then, execute the modeling notebook (part-2_modelling).
